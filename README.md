@@ -28,4 +28,4 @@ As the image above shows urban areas were by far the biggest generators of fares
 
 ## Summary
 Based on the analysis i would recomend Pyber to create some type of incentive program to try to increase the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand.
-Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This could indicate that rural area based drivers are charging more this could be due to longer rides or limited drivers in the are. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
+Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This could indicate that rural area based drivers are charging more this could be due to longer rides or limited drivers in the area. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
